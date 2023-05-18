@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Seal Team",
+        "seasons": 6,
+        "description": "Handlar om ett amerikanskt sealteam",
+        "releaseDate": 2017,
+        "imageUrl": "Action.png",
+        "siteName": "Viaplay",
+        "genreType": "Action"
+    },
+    {
+        "id": 2,
+        "name": "Suits",
+        "seasons": 9,
+        "description": "Handlar om en bluff advokat och hans resa",
+        "releaseDate": 2011,
+        "imageUrl": "Drama.png",
+        "siteName": "Netflix",
+        "genreType": "Drama"
+    },
+    {
+        "id": 3,
+        "name": "Breaking bad",
+        "seasons": 5,
+        "description": "Handlar om en professor som kokar meth",
+        "releaseDate": 2008,
+        "imageUrl": "Thriller.png",
+        "siteName": "Netflix",
+        "genreType": "Thriller"
+    },
+    {
+        "id": 4,
+        "name": "Chesapeake shores",
+        "seasons": 6,
+        "description": "En mamma och karriärkvinna återvänder hem till sin hemstad och sin familj",
+        "releaseDate": 2016,
+        "imageUrl": "Romantik.png",
+        "siteName": "Netflix",
+        "genreType": "Romantik"
+    }
+]

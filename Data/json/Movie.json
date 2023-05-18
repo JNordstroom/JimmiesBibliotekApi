@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Moneyball",
+        "lenght": 133,
+        "description": "Baseball",
+        "releaseDate": 2011,
+        "imageUrl": "Drama.png",
+        "siteName": "Netflix",
+        "genreType": "Drama"
+    },
+    {
+        "id": 2,
+        "name": "Memory",
+        "lenght": 113,
+        "description": "En torped som vänder sig mot sina arbetsgivare",
+        "releaseDate": 2022,
+        "imageUrl": "Action.png",
+        "siteName": "Netflix",
+        "genreType": "Action"
+    },
+    {
+        "id": 3,
+        "name": "Set it up",
+        "lenght": 105,
+        "description": "Två assistenter parar ihop sina chefer",
+        "releaseDate": 2018,
+        "imageUrl": "Romantik.png",
+        "siteName": "Netflix",
+        "genreType": "Romantik"
+    },
+    {
+        "id": 4,
+        "name": "The Choice",
+        "lenght": 111,
+        "description": "En kille faller för sin nya granne men inte helt problem fritt",
+        "releaseDate": 2016,
+        "imageUrl": "Drama.png",
+        "siteName": "Netflix",
+        "genreType": "Drama"
+    }
+]
